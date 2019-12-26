@@ -4,8 +4,8 @@ services:
 env:
   global:
     - DOCKER_COMPOSE_VERSION=1.23.2
-    - secure: "nMJWRO4d/N4CNXp8X0f/8zoecG2Eu+Hi23PPJnM5gkl2HigW2PAMRVBHi+CBWuCIWuiD5fONkY5ANxeq9Nh7/epN4YqwYabyBJ8sSgNvK4lFU1UVo9JYgXYbpktB/2dmBeq0JJ6LOeLWb5oDAuj74QwCUdywVrs/8SVYKcRRmqgI+C3afJekHzGQWhAtmRg00XLmMjd3/8Z0B6vtK2wF+5ar4+fozVbd2UUcaxkmR4la+nytj8ttKFfW12Rn5CHG8exYj4v3J3RB5NwUGUtwUO81/nMhWLLQrABbPdnOr+lYQ9lqroxMq+SMHxWxNHazM4uUypQbOMc6fmwB4FSR8NiPWkyt6tiyaiaXBPHYt7uK5uZzO7pZsFtf7+LZ8xCLQbWsTZDtrsRS2aJ7BdUxsnN3tpSy1h60VgTHBmLZGWrE5U905Fcx/iPWhagpLZ8Af0NL+O4TlmSP6WkaVpT/FaIMBz+kuvPm6Lvi2amDJj32plCzeFaEJ76npqc8jge4of/kuC0bgaLGmeOl9eAvm079gIaB3oB7/PODQQRzqG8wK+YT067qs+vMeGWFhO559jZRbYn0g64sJRWyDTF8Da1QgpdKyMEt0+0/oxOsw+1JWNPeLdHek8QOrHhfTNqp5aN1/djjY/LYP/Jr3dvArnBe+7oQlbbwC0W4cdGXQq8="
-    - secure: "W9RhT9mEi6qwSVaeralIHbuUUvLF8hyrgcPl/1oP2A4LCx1mHFSkCT5n6PZutXz6TPiKDfoTmRIH4fRXNCyw7R55pFUBISmRpSrQlJJObk8B0OX631R14w9UymqE1v9Z+hcXVhleWQJbkmaXReF8Ri6W5ghHmdnWGqpVYjo0Gj0ODgFQq+a/VS7fZNNMOPBhv+pab4SIwS3l3B0ByJ3yemKknPU3EJFAf+4mr6QDuqcoK470QJ5TEyj6eOFd0AlWj+3cd9tOb7pwqpeFYbWs24UBa+n6evCJn5XdXUKBq87kAqHPiI2iHdtqWqNzvFIhQ2TkGNvbP69Apf5BAhert3g43C+bZeOI1Z95d8fiRCRM6UrcxlhOVIO9tlrg+7ZBuFPKszxvg4LQhgyLyPnUMzOe5qox4gwMNfbtK7n5UkHLYmywTTAghPlh1heXzaa04wgkE7T7Ye+VgM4Bhe/YEu8S2wCvFpNPhQPtpu8hjRvqQn0XLmhnbK4DVb2UAHYvdwCQlhNfErVcT7+k1v8n4V7S6wiSdBSADga/rXmsJU192s74an9Y9BtMOWQbOVFp7T9E6LAIgtpF1Y1z5Gm8YpIi6EdSv+0U7I7xT8Qtq179PfI7HkilceZrXps5VO8ear+ZYsbMu4iuDOBB0wAJN6Ij/smkMHY1xq1ATfbGK4k="
+    - secure: "pWDLJBArnqKT2yRy93BDlH22xw6u1XqcuJnyhZ03Xy3Qzg/Xl7paplOKy3RZv9t7CytyLdEDDEO40LKqXT6SMnwluRHxZ8SNZI9zBcZsGArriqx6RFsjNIARzibVZGzvxE5LuIdfoj3Y9aLV86HD+IV1iAYqiNC99u39OeeSkFX8GzAzNI7dXgsSstro+CgO7n8VFF4pd5KuBYAdBh1J8sZENADqAi+1Bgf9Ig9mc0kYpx7Mu/I2B15E87x1+8tDTyUHd/wRFcbwqwFqAY7E42LjXnScy7+u32aEitk/7NiFdYud2gyalcOh1bfrYFYO9iSRP815HipvyTDwttGpMWMfJJVHp41QVx+BZh9dacJFQlWorGmCIjJlRAxt+rF/6ha/P14vZWadki/0Ao8PPZkQCVmqXFXvVBEgZ23fKCSvZhU+7tWFGgSFai8xmP4aZZ0MsatU9V2jTm2oyCw0VtKiOtJkfrilnzpQADfP9WEp8QKryokMZXLGilwi+jmHZwD6caSz6GiDSN7dUPUkyFj/oP0U/POQF+6TeB3ET+8kDZ70t/rnPP7W3swBYcQKaIpbouloTfsxqgFC5EsBwSXbRy84+uffMiki1QPBg0OTamM8h1fJMqXbnGTVPyc8Kg0GQZKiNjjafWkF6dpv9qWuvgxZGzeIEWzSJEXlJ20="
+    - secure: "CWogNkU/feQE86GbkJqHLI4GvKyIqvxGAeqFldcghTgHXN469+fsvZIMFDx/+IUXCnO6ZFZWBDYi2BA6NOwcs94DYIEHoStGk7eHpgrwCm/flfSOrq2ie4YZxLXn6KDFZ7ApQawoeXYmMTrLxtS22RfJxKdjjzfbRGoiC3sFPa4lEFaAdWHCtpr0XmAtZZLA3ZuT1pK96Va7tQPagKAQIlNLLvypHu8nj8jnbCSsW1cy7pEylLWit+J8exOp29w6MG556tWUeddvxlQMaWS1bpuSkJnVKHcjiiccLLoQFaiCcbGPM/dymC6Zk9nMi9SuTV/tgKm6UzWimxL1JpMnb9KQcYFpdohZFtZgyfoYwrAD/jyKVLY+ZITrt0LrBEV8JxcMt3sgcB8vn64SrMZ893LVsEFFbki6flejINcfQu+Lp5LoC7mqn++R5EygkhUlk2Jf9bq8okM6vkflg+m9NynqljFrnZ87AgfOwP1jc3n3IkQcocqzw6aERhhJcNgGnyBZPoX0MyPjuPbbSwl7i0lSBvCa+D7aN9TJ3C+11VJDsOvtqyYSJNopPfP9wXauNHJeOUM5Jrji3FIJfVI+yIKuUIc9bqC93M5AaRo5iXi4fE6oCDbYfLRJekIZOaJwVj4UDksfWKNtj+/fsXLLvquQ1Yeqeid9ulCZW1XGMDg="
 
 before_install:
   - sudo rm /usr/local/bin/docker-compose
@@ -38,15 +38,15 @@ jobs:
       script:
       - cd ch4
       - docker-compose build server
-      - docker tag thoughts_server:latest jaimebuelta/thoughts-backend:$GIT_SHA
-      - docker push jaimebuelta/thoughts-backend:$GIT_SHA
-      - docker tag thoughts_server:latest jaimebuelta/thoughts-backend:$TRAVIS_BRANCH
+      - docker tag thoughts_server:latest mantou0805/thoughts-backend:$GIT_SHA
+      - docker push mantou0805/thoughts-backend:$GIT_SHA
+      - docker tag thoughts_server:latest mantou0805/thoughts-backend:$TRAVIS_BRANCH
       deploy:
       - provider: script
-        script: docker push jaimebuelta/thoughts-backend:$TRAVIS_BRANCH
+        script: docker push mantou0805/thoughts-backend:$TRAVIS_BRANCH
         on:
           branch: master        
       - provider: script
-        script: docker push jaimebuelta/thoughts-backend:$TRAVIS_TAG
+        script: docker push mantou0805/thoughts-backend:$TRAVIS_TAG
         on:
           tags: True
